@@ -1,0 +1,32 @@
+1.the homepage for nocash and also Martin Korth :http://problemkaputt.de/index.htm (不要省略index）
+2.downloading tools for youtube: http://en.savefrom.net/
+3.current homepage for the website of Gameboy Development: http://gbdev.gg8.se/ (including a wiki and a forum containing other resources)
+4.IRC Channel for the site of Gameboy Development: #gbdev channel on http://www.efnet.org
+5.home for GBTD and GBMB: http://www.devrs.com/gb/hmgd/intro.html (a mirror for Harry Mudler's old page)
+6.Jeff Frohwein's Tech Page: www.devrs.com/gb
+7.nitro2k01's personal blog: http://blog.gg8.se/wordpress
+8.homepage of refreshgames, whose owener is really active in the gbdev forum:	https://refreshgames.co.uk/2016/04/18/gameboy-tutorial-rom/
+9.unkonwn page: http://hugi.scene.org/online/hugi20/cogb1.htm
+10. JSGB #1:https://github.com/Two9A/jsGB	#2:https://sourceforge.net/projects/jsgbemu/	#3:http://gbdev.gg8.se/files/jsGB/ 
+11.Imran Nazar的主页: http://imrannazar.com/GameBoy-Emulation-in-JavaScript
+12.http://www.millstone.demon.co.uk/download/javaboy/download.htm
+13.php仿真http://www.oschina.net/p/php-terminal-gameboy-emulator
+14.20个顶级js http://www.iteye.com/news/23826
+15.gb sprite database http://spritedatabase.net/system/gameboy
+16.gameboy advance http://www.gbadev.org/
+17.Doctor Roboturtle: https://www.drroboturtle.com/make-8-bit-sprites/
+18.Create 8-Bit Style Graphics with Authentic NES, Gameboy, and Sega Colors: http://www.howtogeek.com/howto/31898/create-8-bit-style-graphics-with-authentic-nes-gameboy-and-sega-colors/
+19.chipmusic http://chipmusic.org/
+20.国内的游戏开发者社区 http://bbs.9ria.com/thread-187910-1-1.html
+21.little sound dj -- gb/gbc tools of choice for musicians and composers: http://www.littlesounddj.com/lsd/
+22.Retro Rich, a member in the forum, and here is his homepage: http://www.retrorich.co.uk/
+23.看雪 水木 //注意生产前线
+24.go swift
+23.bitbitjam composition contest: http://bitbitjam.com/
+24.good gameboy tutorials at: http://www.retroisle.com/others/nintendogameboy/Technical/Firmware/dev.php
+25.how to make an emulator at: https://www.youtube.com/playlist?list=PLmgl8BxEjnVa9aglvE0jAX_m1110SSFJq
+26.luckeywood tutorials: https://www.youtube.com/channel/UC97IXLpHJJUB_QTL4xgcllQ/user/TutorialTheater
+27.http://www.pokestadium.com/tools/sprites: pokemon sprites
+
+so far so good!
+ 
